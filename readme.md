@@ -1,14 +1,16 @@
-<h1>Hi, there!</h1>
+# Hi, there! :computer:
 
-<h2>Skills</h2>
-<ul>
-    <li>React</li>
-    <li>Node</li>
-    <li>Typescript</li>
-    <li>Python</li>
-    <li>Javascript</li>
-    <li>HTML</li>
-    <li>CSS</li>
-</ul>
+### Skills
+---
+-   React
+-   Node
+-   Typescript
+-   Python
+-   Javascript
+-   HTML
+-   CSS
+---
+
+###### Made with :blue_heart: by Leo
 
 
