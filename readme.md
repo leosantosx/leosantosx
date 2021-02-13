@@ -4,7 +4,7 @@
 
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leosantosx&langs_count=10&theme=omni&layout=compact" alt="AnhellO :: Top Langs" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leosantosx&langs_count=10&theme=omni&layout=compact" alt="leosantosx :: Top Langs" /></p>
 
 <h4>Profile stats :star:</h4>
 
