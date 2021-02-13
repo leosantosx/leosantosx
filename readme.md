@@ -20,10 +20,9 @@
 
 </div>
 
+<br /><br />
 
-<a href="https://www.linkedin.com/in/leonardosant02/">
-<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardosant02" alt="Linkedin" /></a>
-
+<a href="https://www.linkedin. src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardosant02" alt="Linkedin" /></a>
 
 #### Made with by Leo :blue_heart:
 
