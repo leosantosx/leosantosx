@@ -1,4 +1,4 @@
-# Hi, there! :vulcan_salute:
+  # Hi, there! :vulcan_salute:
 
 <h4>Top langs :blue_heart:</h4>
 
@@ -13,4 +13,3 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardosant02)](https://www.linkedin.com/in/leonardosant02/)
 
 #### Made with by Leo :blue_heart:
-
