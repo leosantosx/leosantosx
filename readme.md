@@ -7,8 +7,6 @@
 - 🌱 I’m currently learning React and Typescript; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@leosantos](https://www.linkedin.com/in/leonardosant02/);
-- 📝[Resume](https://www.linkedin.com/in/leonardosant02/)
-
  
 ### ⚙️ &nbsp;GitHub Analytics
 
