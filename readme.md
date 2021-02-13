@@ -1,7 +1,5 @@
  # Hi, there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
  
- I'm Leo, a student science computer 🚀 from Brasil.
- 
  <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='200"'>
 
 **Talking about Personal Stuffs:**
