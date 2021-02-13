@@ -10,7 +10,7 @@
  - 📚 I’m currently learning everything about Frontend and Backend technologies 😅;
  - 💬 Ask me about anything, I am happy to help;
 
- ### ⚙️ GitHub Analytics
+ ### ⚙️ GitHub Analytics:
 
  <p>
    <a href="https://github.com/leosantosx">
