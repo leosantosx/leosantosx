@@ -1,4 +1,4 @@
-<img align="right" width="350" height="350" src="https://user-images.githubusercontent.com/48372094/101269157-5f3ef080-374a-11eb-9a98-5666b38f3082.png">
+<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
 
 # Hi, there! :vulcan_salute:
 
