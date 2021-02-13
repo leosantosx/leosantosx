@@ -10,7 +10,7 @@
 - 📝[Resume](https://www.linkedin.com/in/leonardosant02/)
 
  
-<h4>Top langs :blue_heart:</h4>
+### ⚙️ &nbsp;GitHub Analytics
 
 <p>
   <a href="https://github.com/leosantosx">
