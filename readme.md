@@ -12,14 +12,15 @@
  
 <h4>Top langs :blue_heart:</h4>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leosantosx&langs_count=10&theme=omni&layout=compact" alt="leosantosx :: Top Langs" />
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=leosantosx&show_icons=true&theme=omni" alt="leosantosx :: Profile Stats" />
+<div>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leosantosx&langs_count=10&theme=omni&layout=compact" alt="leosantosx :: Top Langs" />
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=leosantosx&show_icons=true&theme=omni" alt="leosantosx :: Profile Stats" />
+</div>
 
 <div>
-<a href="https://www.linkedin.com/in/leonardosant02">
-  <img align="left" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardosant02" alt="Linkedin" />
-</a>
+ <a href="https://www.linkedin.com/in/leonardosant02">
+   <img align="left" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardosant02" alt="Linkedin" />
+ </a>
 </div>
 
 #### Made with by Leo :blue_heart:
