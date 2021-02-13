@@ -13,7 +13,7 @@
 <h4>Top langs :blue_heart:</h4>
 
 <div>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leosantosx&langs_count=10&theme=omni&layout=compact" alt="leosantosx :: Top Langs" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leosantosx&langs_count=10&theme=omni&layout=compact" alt="leosantosx :: Top Langs" />
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=leosantosx&show_icons=true&theme=omni" alt="leosantosx :: Profile Stats" />
 </div>
 
