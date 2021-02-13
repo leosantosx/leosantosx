@@ -2,8 +2,6 @@
 
 # Hi, there! :vulcan_salute:
 
-<h2>Github stats :bar_chart:</h2>
-
 <h4>Top langs :blue_heart:</h4>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leosantosx&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
