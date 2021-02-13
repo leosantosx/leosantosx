@@ -7,7 +7,7 @@
  **Talking about Personal Stuffs:**
 
  - 👨🏽‍💻 I’m currently working on something cool :wink:;
- - 🌱 I’m currently learning React and Typescript; 
+ - 📚 I’m currently learning everything about Frontend and Backend technologies 😅;
  - 💬 Ask me about anything, I am happy to help;
 
  ### ⚙️ GitHub Analytics
