@@ -9,7 +9,7 @@
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@leosantos](https://www.linkedin.com/in/leonardosant02/);
  
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ GitHub Analytics
 
 <p>
   <a href="https://github.com/leosantosx">
@@ -21,11 +21,9 @@
 
 <footer>
 
+ <p>Would you like to find me?</p>
+ 
  [![Linkedin Badge](https://img.shields.io/badge/-leosantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardosant02)](https://www.linkedin.com/in/leonardosant02) 
- [![Gmail Badge](https://img.shields.io/badge/leonardosaint748@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonardosaint748@gmail.com)](mailto:leonardosaint748@gmail.com)
-  
- <h4>Made with by Leo :blue_heart:</h4>
+ [![Gmail Badge](https://img.shields.io/badge/leonardosaint748@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonardosaint748@gmail.com)](mailto:leonardosaint748@gmail.com) 
+ 
 </footer>
-
-
-
