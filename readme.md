@@ -1,12 +1,12 @@
  # Hi, there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
  
- ### I'm Leo, a student computer science from Brazil. (:brazil:)
+ #### I'm Leo, a student computer science from Brazil. (:brazil:)
  
  <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
 
- **Talking about Personal Stuffs:**
+ ### 👨🏽‍💻 Talking about Personal Stuffs:
 
- - 👨🏽‍💻 I’m currently working on something cool :wink:;
+ - 💡 I’m currently working on something cool :wink:;
  - 📚 I’m currently learning everything about Frontend and Backend technologies 😅;
  - 💬 Ask me about anything, I am happy to help;
 
