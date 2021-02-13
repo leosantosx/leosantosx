@@ -19,7 +19,6 @@
   </a>
 </p>
 
-<!--
 
 <footer>
  <a href="https://www.linkedin.com/in/leonardosant02">
@@ -28,6 +27,6 @@
  
  <h4>Made with by Leo :blue_heart:</h4>
 </footer>
--->
+
 
 
