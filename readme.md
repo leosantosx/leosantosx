@@ -21,9 +21,8 @@
 
 <footer>
 
- ![Linkedin Badge](https://img.shields.io/badge/-Pushpneet_Singh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardosant02)
-  
- ![Gmail Badge](https://img.shields.io/badge/leonardosaint748@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonardosaint748@gmail.com)
+ [![Linkedin Badge](https://img.shields.io/badge/-leonardosant02-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardosant02)](https://www.linkedin.com/in/leonardosant02) 
+ [![Gmail Badge](https://img.shields.io/badge/leonardosaint748@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonardosaint748@gmail.com)](mailto:leonardosaint748@gmail.com)
   
  <h4>Made with by Leo :blue_heart:</h4>
 </footer>
