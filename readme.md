@@ -14,7 +14,7 @@
 
 <p>
   <a href="https://github.com/leosantosx">
-   <img src="https://github-readme-stats.vercel.app/api?username=leosantosx&show_icons=true&theme=omni" alt="leosantosx :: Profile Stats" />
+   <img align="left" src="https://github-readme-stats.vercel.app/api?username=leosantosx&show_icons=true&theme=omni" alt="leosantosx :: Profile Stats" />
    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leosantosx&langs_count=6&theme=omni&layout=compact" alt="leosantosx :: Top Langs" />
   </a>
 </p>
