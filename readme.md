@@ -16,8 +16,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=leosantosx&show_icons=true&theme=omni" alt="leosantosx :: Profile Stats" />
 
-<br /><br />
-
+<h3><h3>
 <a href="https://www.linkedin.com/in/leonardosant02">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardosant02" alt="Linkedin" />
 </a>
