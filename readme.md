@@ -2,7 +2,7 @@
 
 <h4>Top langs :blue_heart:</h4>
 
-<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
+<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='200"'>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leosantosx&langs_count=10&theme=omni&layout=compact" alt="leosantosx :: Top Langs" /></p>
 
