@@ -4,7 +4,7 @@
  
  #### I'm Leo, a student computer science from Brazil. (:brazil:) 
 
- <p>
+ <p> 
    <a href="https://github.com/leosantosx">
 <!--     <img width="450px" src="https://github-readme-stats.vercel.app/api?username=leosantosx&show_icons=true&theme=omni" alt="leosantosx :: Profile Stats" /> -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leosantosx&langs_count=6&theme=buefy&layout=compact" alt="leosantosx :: Top Langs" />
